@@ -1,7 +1,7 @@
 export function App() {
   return (
     <>
-      <div className="">
+      <div>
         <p>Convide seus amigos e planeje sua próxima viagem!</p>
         <p>
           Ao planejar sua viagem pela plann.er você automaticamente concorda <br/>
